@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.landing{
+    background: url("./pexels-ahmetyuksek-29711658.jpg");
+    background-size: cover;
+    background-position:center ;
+    height: 100vh;
+}
+.landing h1{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding-top: 300px;
+    font-style:bold;
+}
+.landing p{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    padding-top: 20px;
+    font-style: italic;
+}
+button{
+    padding: 10px 50px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left:40%;
+    border-radius:0.1;
+}
